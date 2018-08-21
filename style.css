@@ -1,0 +1,10 @@
+.images {
+    height: 150px;
+    width: 150px;
+}
+body {
+    color: white;
+    background-image: url(images/background.jpg);
+    font-family: 'Audiowide', cursive;
+    
+}
